@@ -1,5 +1,3 @@
-# url = 'https://zandercatcher.ru'
-# bitlink = 'bit.ly/3bFfPrf'
 import argparse
 import os
 
