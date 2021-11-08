@@ -7,9 +7,6 @@ import requests
 from dotenv import load_dotenv
 
 
-load_dotenv()
-
-
 def get_url() -> str:
     """Return the URL entered as an argument."""
     parser = argparse.ArgumentParser(
@@ -82,4 +79,5 @@ def main() -> None:
 
 
 if __name__ == '__main__':
+    load_dotenv()
     main()
