@@ -4,8 +4,7 @@
 ```python bitly.py [-h] <url> ```
 ### Как установить
 Требуется установленный Python3.x.
-Рекомендуется использовать виртуальное окружение [virtualenv/venv](https://docs.python.org/3/
-library/venv.html) для изоляции проекта.
+Рекомендуется использовать виртуальное окружение [virtualenv/venv](https://docs.python.org/3/library/venv.html) для изоляции проекта.
 Для установки необходимых зависимостей введите в консоли:
 
 ```pip install -r requirements.txt```
